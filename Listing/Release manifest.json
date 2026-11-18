@@ -1,0 +1,21 @@
+{
+  "name": "GPT's John Hancock's Spire by X_Bean_X",
+  "author": "X_Bean_X",
+  "version": "1.0.0",
+  "package": "GPT's John Hancock's Spire by X_Bean_X.cok",
+  "sha256": "c9b623800d99c4ca207af0fd7ebb800aad7bdb2579f6fa15b5e4e86dcb9e4b0a",
+  "testedGameVersion": "1.6.4f1",
+  "dependencies": {
+    "mods": [],
+    "dlc": []
+  },
+  "preview": "Preview.png",
+  "screenshots": [
+    "01 Placement.jpg",
+    "02 Mounting hardware.jpg",
+    "03 Conduit and junction box.jpg",
+    "04 Beacon bright.jpg",
+    "05 Beacon dim.jpg"
+  ],
+  "source": "https://github.com/X-X-Bean-X-X/GPTsJohnHancocksSpire"
+}
